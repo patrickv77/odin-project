@@ -1,0 +1,41 @@
+    * {
+        color: purple;
+    }
+
+    div {
+        color: white;
+    }
+
+    body {
+        background-color: black;
+    }
+
+    .alert-text {
+        color: red;
+    }
+
+    #title {
+        background-color: red;
+    }
+
+    .subsection.header {
+        color: green;
+    }
+
+    .subsection#preview {
+        color: blue;
+    }
+
+    p {
+        /* hex example: */
+        color: #1100ff;
+        /* rgb example: */
+        color: rgb(100, 0, 127);
+        /* hsl example: */
+        color: hsl(15, 82%, 56%);
+    }
+
+    img {
+        height: auto;
+        width: 500px;
+    }
