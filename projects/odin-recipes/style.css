@@ -1,0 +1,17 @@
+h2 {
+    color: purple;
+    background-color: teal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ul{
+    color: brown;
+    background-color: pink;
+    font-family: 'Courier New', Courier, monospace;
+}
