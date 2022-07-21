@@ -1,0 +1,4 @@
+two types of boxes, block and inline.
+can set via display property
+
+outer vs inner display types
