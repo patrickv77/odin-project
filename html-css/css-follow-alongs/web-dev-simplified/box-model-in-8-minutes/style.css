@@ -2,16 +2,46 @@
     margin: 0;
     padding: 0;
     font-size: 40px;
+    box-sizing: border-box;
 }
 
 .box-one {
     background-color: #eb5757;
-    padding: 20px;
-    border: 40px solid #9B51E0;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    border: 20px solid #9B51E0;
     margin: 60px;
 }
 
 .box-two {
     background-color: #2D9CDB;
-    border: 0 solid #27AE60;
+    padding: 20px;
+    height: 100px;
+    width: 100px;
+    border: 40px solid #27AE60;
+    margin: 60px;
 }
+
+
+/*
+margin collapses with other boxes
+example: if two boxes have 60px margins, the space between them is 60px not 120px
+example 2: if two boxes have different margins (for example 40px and 120px) the space between them will be
+            the largest margin (120px)
+*/
+
+/*
+size of a box (height and width)
+height is defined height + padding on top and bottom (padding x2) + border on top and bottom (border x2)
+same with width
+
+***MARGIN IS NOT ACCOUNTED FOR IN HEIGHT AND WIDTH***
+*/
+
+/*
+by using box-sizing: border-box, you change the size of the box relative to the padding and the border
+in the above example, 20 border + 10 margin + 40 box size + 10 margin + 20 border = 100px
+often used in the universal selector because it makes sizing much more inuitive
+*/
+
