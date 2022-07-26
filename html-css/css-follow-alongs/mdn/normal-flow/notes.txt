@@ -1,0 +1,6 @@
+you cant change width and height of inline elements. you must change their display property with display: block or display: inline-block in order to change
+the width and height.
+
+overlapping margins of *VERTICALLY* adjacent elements have what is called margin collapsing.
+the larger margin is taken and the smaller margin disappears. (if they are even then the margin is just one not both).
+
