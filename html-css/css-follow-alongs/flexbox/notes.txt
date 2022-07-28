@@ -5,3 +5,21 @@ flex grow grows the box proportionately to the other boxes
 flex shrink shrinks the box proportionately
 flex basis sets the starting size of the box
 
+axes
+two axes in flex containers, main and cross.
+flex-direction: row changes the main axis horizontal (left-to-right)
+flex-direction: column changes the main axis vertical (top-to-bottom)
+
+flex basis in a row refers to width
+flex basis in a column refers to height
+
+flex direction default is row
+
+How do you make flex items arrange themselves vertically instead of horizontally?
+    by using flex-direction: column
+In a column flex-container, what does flex-basis refer to?
+    flex basis refers to height in a column flex-container
+In a row flex-container, what does flex-basis refer to?
+    flex basis refers to width in a row flex-container
+Why do the previous two questions have different answers?
+    because the direction of the main axis is different
