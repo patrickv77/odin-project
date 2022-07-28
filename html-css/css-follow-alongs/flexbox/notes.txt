@@ -1,0 +1,7 @@
+flexbox shorthand
+flex: [flex-grow] [flex-shrink] [flex-basis]
+
+flex grow grows the box proportionately to the other boxes
+flex shrink shrinks the box proportionately
+flex basis sets the starting size of the box
+
