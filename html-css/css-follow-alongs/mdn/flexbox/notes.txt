@@ -1,0 +1,16 @@
+flexbox has two axes, (axises lol)
+main axis and cross axis
+
+flex direction has four possible values which define the main and cross axis
+
+row, row-reverse, column, and column reverse
+
+in row and row-reverse, the main axis goes from left and right and the cross axis goes up and down
+in column and column-reverse, the main axis goes up and down and the cross axis goes left and right
+
+start and end differs depending on the working language.
+in english it starts on the left and goes towards the right.
+in arabic (for example) it starts on the right and goes towards the left.
+
+flex-wrap, wrap or nowrap. wrap = boxes will wrap and maintain a certain size. nowrap = boxes will shrink to fit the container
+
