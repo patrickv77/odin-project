@@ -1,0 +1,2 @@
+justify-content aligns items along the main axis
+align-items aligns along the cross axis
