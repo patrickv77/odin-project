@@ -5,15 +5,16 @@
 
   .one {
     background-color: red;
-    flex: 22222221 1 auto;
+    flex: 1 1 auto;
   }
 
   .two {
     background-color: blue;
-    flex: 1100 1 auto;
+    flex: 1 1 auto;
   }
 
   .three {
     background-color: green;
-    flex: 55555555555551 1 auto;
+    flex: 1 1 auto;
+    margin-left: auto;
   }

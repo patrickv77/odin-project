@@ -14,3 +14,13 @@ in arabic (for example) it starts on the right and goes towards the left.
 
 flex-wrap, wrap or nowrap. wrap = boxes will wrap and maintain a certain size. nowrap = boxes will shrink to fit the container
 
+can align individual items with align-self
+
+why choose flexbox?
+to lay a collection of items out in one direction or another and control the space inbetween them
+
+most common use case for flexbox
+horizontally arranged content.
+difficult to achieve before flexbox
+
+a lot of possibilities regarding spacing, changing direction of main/cross axis
