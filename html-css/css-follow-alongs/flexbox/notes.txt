@@ -23,3 +23,16 @@ In a row flex-container, what does flex-basis refer to?
     flex basis refers to width in a row flex-container
 Why do the previous two questions have different answers?
     because the direction of the main axis is different
+
+
+REVIEW THESE:
+
+justify-content
+align-items
+flex-direction
+order
+align-self
+flex-wrap
+flex-flow
+align-content
+
