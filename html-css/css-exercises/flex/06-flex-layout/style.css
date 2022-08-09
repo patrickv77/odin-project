@@ -34,15 +34,6 @@ ul a {
   align-items: center;
 }
 
-.right-links {
-  margin-left: auto;
-  
-}
-
-.left-links {
-  margin-right: auto;
-}
-
 .header, .footer {
   display: flex;
   padding: 16px;
