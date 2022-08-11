@@ -36,5 +36,5 @@ flex-wrap
 flex-flow
 align-content
 
-flexbox zombies up to ch6
-https://mastery.games/flexboxzombies/chapter/6/level/21
+flexbox zombies starting ch 7, not much progress today
+https://mastery.games/flexboxzombies/chapter/7/level/3
