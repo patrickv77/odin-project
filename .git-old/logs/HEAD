@@ -1,0 +1,58 @@
+0000000000000000000000000000000000000000 1475ad45acd892bea2c59ab12011de4373071017 Patrick Vuong <patrickv77@gmail.com> 1656360772 -0500	clone: from github.com:patrickv77/odin-project.git
+1475ad45acd892bea2c59ab12011de4373071017 f6c2ed51a243dceb7adabe9f4684f66f4cea2685 Patrick Vuong <patrickv77@gmail.com> 1656360979 -0500	commit: Add hello_world.txt
+f6c2ed51a243dceb7adabe9f4684f66f4cea2685 45890f50dd2c1c278402fc1209e78a36cedb9007 Patrick Vuong <patrickv77@gmail.com> 1656361482 -0500	commit: Edit README.md and hello_world.txt
+45890f50dd2c1c278402fc1209e78a36cedb9007 bd6b8f0548c4ae5ccd954159cbb7a055f0391595 Patrick Vuong <patrickv77@gmail.com> 1656363818 -0500	commit: testing git config --global core.editor "code --wait"
+bd6b8f0548c4ae5ccd954159cbb7a055f0391595 d77c8eb4e34ebfb907a5dca412e5f52c7de2b4a8 Patrick Vuong <patrickv77@gmail.com> 1656442298 -0500	commit: added HTML boilerplate
+d77c8eb4e34ebfb907a5dca412e5f52c7de2b4a8 e819c566d64515d244ffd7344ec22f168418a08b Patrick Vuong <patrickv77@gmail.com> 1656442337 -0500	commit: used ! to generate standard html boilerplate
+e819c566d64515d244ffd7344ec22f168418a08b c7bc8710c2f903bace151c8edb073efd40937513 Patrick Vuong <patrickv77@gmail.com> 1656448044 -0500	commit: wrote boilerplate from memory
+c7bc8710c2f903bace151c8edb073efd40937513 8d886b722a7b03ae63093b102f7b974e8b4c2ab0 Patrick Vuong <patrickv77@gmail.com> 1656448166 -0500	commit: finished htmlcsspt2 video follow-along
+8d886b722a7b03ae63093b102f7b974e8b4c2ab0 1dd78094bf9fcfb52c23b9c6ee21db691fe7ce8f Patrick Vuong <patrickv77@gmail.com> 1657733059 -0500	commit: odin project working with text
+1dd78094bf9fcfb52c23b9c6ee21db691fe7ce8f 7929bb100626a85695c24b66b1a1bb992a839c3a Patrick Vuong <patrickv77@gmail.com> 1657734160 -0500	commit: working with text follow along
+7929bb100626a85695c24b66b1a1bb992a839c3a e5832d407b59c786268f06b85ec285da2f665576 Patrick Vuong <patrickv77@gmail.com> 1657734351 -0500	commit: part 2
+e5832d407b59c786268f06b85ec285da2f665576 9373e8681c16e0880706b5d44d02fda4e30ac316 Patrick Vuong <patrickv77@gmail.com> 1657736120 -0500	commit: part 3
+9373e8681c16e0880706b5d44d02fda4e30ac316 c2bde62b16de4b6750fb268e41d4682f0c28a494 Patrick Vuong <patrickv77@gmail.com> 1657737140 -0500	commit: part 4
+c2bde62b16de4b6750fb268e41d4682f0c28a494 35bc6a94969078f8caa11b267cce10111af84526 Patrick Vuong <patrickv77@gmail.com> 1657745205 -0500	commit: lists follow along
+35bc6a94969078f8caa11b267cce10111af84526 5c85f8f5660b8887d89097fbd466e7d9f2908138 Patrick Vuong <patrickv77@gmail.com> 1657750237 -0500	commit: shay howe list tutorial follow along
+5c85f8f5660b8887d89097fbd466e7d9f2908138 6e2b8378c70ad75a4e05c57ab715623629a70a45 Patrick Vuong <patrickv77@gmail.com> 1657819784 -0500	commit: links and images follow along
+6e2b8378c70ad75a4e05c57ab715623629a70a45 61c681731c05211a517d78ca65f579bf6dd55dfd Patrick Vuong <patrickv77@gmail.com> 1657821044 -0500	commit: kevin powell part 5
+61c681731c05211a517d78ca65f579bf6dd55dfd 1c809f1f16bcabad51a5af149ac58deb7c429180 Patrick Vuong <patrickv77@gmail.com> 1657822013 -0500	commit: kevin powell part 6 images
+1c809f1f16bcabad51a5af149ac58deb7c429180 80b0416d0c3c6759a7cc00778ce3a319cb20b453 Patrick Vuong <patrickv77@gmail.com> 1657828537 -0500	commit: 4 types of images jpg png gif svg
+80b0416d0c3c6759a7cc00778ce3a319cb20b453 4782bb9036bfb7f82bdc2ad5ac2030e0b6b3a9e8 Patrick Vuong <patrickv77@gmail.com> 1657833831 -0500	commit: update README and begin adding recipes to main page
+4782bb9036bfb7f82bdc2ad5ac2030e0b6b3a9e8 1d258f0249d33ae5e6967e44d021171976badc65 Patrick Vuong <patrickv77@gmail.com> 1657833882 -0500	commit: create folder to hold recipes and add first recipe
+1d258f0249d33ae5e6967e44d021171976badc65 81e8333d049300ecbb14cbde2db47b6619350b36 Patrick Vuong <patrickv77@gmail.com> 1657834239 -0500	commit: complete chicago dog recipe
+81e8333d049300ecbb14cbde2db47b6619350b36 225f60ffffa805dbdeabeb42e8f557fba16cab95 Patrick Vuong <patrickv77@gmail.com> 1657834711 -0500	commit: complete egg salad recipe
+225f60ffffa805dbdeabeb42e8f557fba16cab95 6ce73e9cc8a7b6c909df2226ffcfdef12722264d Patrick Vuong <patrickv77@gmail.com> 1657834852 -0500	commit: complete chicken salad recipe
+6ce73e9cc8a7b6c909df2226ffcfdef12722264d 84f460bf62e91d7a98e32492aea67e442998f4b8 Patrick Vuong <patrickv77@gmail.com> 1657834869 -0500	commit: complete odin-recipes project
+84f460bf62e91d7a98e32492aea67e442998f4b8 d404d66b6613a385e09d728f00e3b4e384714001 Patrick Vuong <patrickv77@gmail.com> 1657914301 -0500	commit: begin css foundations
+d404d66b6613a385e09d728f00e3b4e384714001 5e4c751667ca20d141d5b422e2c86c3675167f46 Patrick Vuong <patrickv77@gmail.com> 1657918850 -0500	commit: css foundations exercise 1
+5e4c751667ca20d141d5b422e2c86c3675167f46 946a86c54b2b9c43b3dc6b15e39e6b0880c3bd74 Patrick Vuong <patrickv77@gmail.com> 1658169012 -0500	commit: readded css-exercises folder, solutions to exercise 2 and 3
+946a86c54b2b9c43b3dc6b15e39e6b0880c3bd74 c25345b5d4f258dcbf92c9c47be6de1fb5f7ee03 Patrick Vuong <patrickv77@gmail.com> 1658172134 -0500	commit: complete css foundations exercise 04
+c25345b5d4f258dcbf92c9c47be6de1fb5f7ee03 f4406a4a5254a1276202ae11d9f1cb2260893244 Patrick Vuong <patrickv77@gmail.com> 1658172867 -0500	commit: complete css foundations exercise 05
+f4406a4a5254a1276202ae11d9f1cb2260893244 433035d9583b0bd42914134f96f141ab04c5b3da Patrick Vuong <patrickv77@gmail.com> 1658173607 -0500	commit: complete css foundations exercise 06
+433035d9583b0bd42914134f96f141ab04c5b3da d0a99c2dba1739a21ccc655f920e4785f1407859 Patrick Vuong <patrickv77@gmail.com> 1658174959 -0500	commit: added horrible looking css to recipe project frontpage
+d0a99c2dba1739a21ccc655f920e4785f1407859 96bbcc446f00e8dacbb715c7ebaaf77d849ea2c5 Patrick Vuong <patrickv77@gmail.com> 1658427545 -0500	commit: padding, margin, border visualization
+96bbcc446f00e8dacbb715c7ebaaf77d849ea2c5 22f9e21e54679ff3db7e1a62ec679d7ec151dd75 Patrick Vuong <patrickv77@gmail.com> 1658431968 -0500	commit: finished notes for box model in 8 minutes
+22f9e21e54679ff3db7e1a62ec679d7ec151dd75 beb916b73b34fba6a595716ca8b9a54c906bfe31 Patrick Vuong <patrickv77@gmail.com> 1658434349 -0500	commit: briefly covered mdn box model tutorial
+beb916b73b34fba6a595716ca8b9a54c906bfe31 b7d8baf241d653dd4eaa905836149d5655c6fa62 Patrick Vuong <patrickv77@gmail.com> 1658867567 -0500	commit: mdn normal flow follow along
+b7d8baf241d653dd4eaa905836149d5655c6fa62 1b5a5af7e80bf2c0b989e9e303c59996bc4f8f51 Patrick Vuong <patrickv77@gmail.com> 1658868429 -0500	commit: margin and padding exercise 1
+1b5a5af7e80bf2c0b989e9e303c59996bc4f8f51 8d9198b27fd93c05115b85732fa3d4f34133762a Patrick Vuong <patrickv77@gmail.com> 1658946941 -0500	commit: margin and padding exercise 2
+8d9198b27fd93c05115b85732fa3d4f34133762a cc1d76678b58ea3a9de1a67d80bef3df22bccdce Patrick Vuong <patrickv77@gmail.com> 1659035592 -0500	commit: notes on css flexbox
+cc1d76678b58ea3a9de1a67d80bef3df22bccdce ec048e6cdc9ed706d94a3590fe064aec8c7a05fd Patrick Vuong <patrickv77@gmail.com> 1659040632 -0500	commit: flexbox notes
+ec048e6cdc9ed706d94a3590fe064aec8c7a05fd 9a66bde6ee54526bfa13afea0310440021112b32 Patrick Vuong <patrickv77@gmail.com> 1659383667 -0500	commit: alignment notes
+9a66bde6ee54526bfa13afea0310440021112b32 ac8802a70f54d939dd02d0c4a823a41e079591e7 Patrick Vuong <patrickv77@gmail.com> 1659557450 -0500	commit: ToP alignment notes
+ac8802a70f54d939dd02d0c4a823a41e079591e7 6a35ad97fb383f0b50b57e2d323dcfae97b1f8b4 Patrick Vuong <patrickv77@gmail.com> 1659557477 -0500	commit: mdn flexbox
+6a35ad97fb383f0b50b57e2d323dcfae97b1f8b4 3aa4c680ed084744596aef023766abeddd0203bf Patrick Vuong <patrickv77@gmail.com> 1659558722 -0500	commit: mdn flexbox pt2
+3aa4c680ed084744596aef023766abeddd0203bf 914be6c2a8950d3d9c76f4db90b0e2efb5c2e24c Patrick Vuong <patrickv77@gmail.com> 1659642499 -0500	commit: mdn flexbox pt3
+914be6c2a8950d3d9c76f4db90b0e2efb5c2e24c 1df68648b173e3ed406345ae926e5075f5d8b83c Patrick Vuong <patrickv77@gmail.com> 1659642752 -0500	commit: flex 01
+1df68648b173e3ed406345ae926e5075f5d8b83c 589169a83d3657c93323e2e5b340e7cf3775e51c Patrick Vuong <patrickv77@gmail.com> 1659643359 -0500	commit: css exercises flex 02
+589169a83d3657c93323e2e5b340e7cf3775e51c cfd650ed69f7805e77f708561e767e525e9d731f Patrick Vuong <patrickv77@gmail.com> 1659644205 -0500	commit: css exercises flex 03
+cfd650ed69f7805e77f708561e767e525e9d731f 708a7fc4b02521210f6deb4cc0116ff2e67cdf79 Patrick Vuong <patrickv77@gmail.com> 1659730995 -0500	commit: css exercises flex 04
+708a7fc4b02521210f6deb4cc0116ff2e67cdf79 060d82a8ffbd84b9db397d40d068ddbdb97fd02f Patrick Vuong <patrickv77@gmail.com> 1659989075 -0500	commit: css exercises flex 05
+060d82a8ffbd84b9db397d40d068ddbdb97fd02f 8e85f84b68e0ee040f3c600b90f874624c3236fc Patrick Vuong <patrickv77@gmail.com> 1659992789 -0500	commit: css exercise flex 06 prog
+8e85f84b68e0ee040f3c600b90f874624c3236fc 632158e469b173147358a0f7bb82ede64bb30076 Patrick Vuong <patrickv77@gmail.com> 1660072907 -0500	commit: css exercises flex 06
+632158e469b173147358a0f7bb82ede64bb30076 ce9a130d476b533423382c9eb915ca04834127b5 Patrick Vuong <patrickv77@gmail.com> 1660073298 -0500	commit: minor changes to flex 06
+ce9a130d476b533423382c9eb915ca04834127b5 61c7fb53327b7d5449e13fbc73f599d077fe0924 Patrick Vuong <patrickv77@gmail.com> 1660077865 -0500	commit: flex 07
+61c7fb53327b7d5449e13fbc73f599d077fe0924 7cde629df1e247f1740e91970451a05a355bb7e9 Patrick Vuong <patrickv77@gmail.com> 1660079672 -0500	commit: flexbox froggy finished, added notes to review in the future
+7cde629df1e247f1740e91970451a05a355bb7e9 012f0a716c255fcdfd11e2713b0763fec32fe161 Patrick Vuong <patrickv77@gmail.com> 1660169575 -0500	commit: flexbox zombies 6
+012f0a716c255fcdfd11e2713b0763fec32fe161 88ff790023762fa0c655795a81f7082b6568fa25 Patrick Vuong <patrickv77@gmail.com> 1660258308 -0500	commit: flexbox zombies prog
+                                                                                                                                                                     
