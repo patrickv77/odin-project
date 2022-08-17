@@ -36,5 +36,5 @@ flex-wrap
 flex-flow
 align-content
 
-flexbox zombies ch 7 flex basis
-https://mastery.games/flexboxzombies/chapter/8/level/18
+flexbox zombies ch 9 flex wrap
+https://mastery.games/flexboxzombies/chapter/9/level/20
