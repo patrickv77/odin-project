@@ -36,5 +36,7 @@ flex-wrap
 flex-flow
 align-content
 
-flexbox zombies ch 11 flex shorthand 
-https://mastery.games/flexboxzombies/chapter/11/level/17
+flexbox zombies ch 12 finished
+
+grid practice
+https://gridcritters.com/
