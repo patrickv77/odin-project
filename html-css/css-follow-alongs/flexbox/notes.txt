@@ -36,5 +36,5 @@ flex-wrap
 flex-flow
 align-content
 
-flexbox zombies ch 10 align-content
-https://mastery.games/flexboxzombies/
+flexbox zombies ch 11 flex shorthand 
+https://mastery.games/flexboxzombies/chapter/11/level/17
