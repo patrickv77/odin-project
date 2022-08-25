@@ -41,3 +41,12 @@ ul {
     width: 200px;
     display: flex;
 }
+
+.testimonials {
+    background-color: #E5E7EB;
+    color: #1f2937;
+    font-size: 24px;
+    font-weight: lighter;
+    font-style: italic;
+    padding: 50px 250px;
+}
