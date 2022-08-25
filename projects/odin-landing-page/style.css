@@ -7,3 +7,37 @@ ul {
 .links {
     margin-left: auto;
 }
+
+.introduction {
+    display: flex;
+    padding: 75px;
+    gap: 15px
+}
+
+.intro-right {
+    flex: 1 1 50%;
+}
+
+.intro-left {
+    flex: 1 1 50%;
+}
+
+.section-two-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-container {
+    display: flex;
+    gap: 15px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.image-with-text {
+    background: purple;
+    height: 200px;
+    width: 200px;
+    display: flex;
+}
