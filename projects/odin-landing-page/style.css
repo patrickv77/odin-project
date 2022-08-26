@@ -15,14 +15,39 @@ ul {
     gap: 10px;
 }
 
-.links {
+.header-logo {
+    font-size: 24px;
+    color: #f9faf8
+}
+
+.links{ 
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+#link-one {
     margin-left: auto;
+}
+
+#link-three {
+    margin-right: 30px;
 }
 
 .introduction {
     display: flex;
     padding: 75px;
     gap: 15px
+}
+
+h1 {
+    font-weight: bolder;
+    font-size: 48px;
+    color: #f9faf8;
+}
+
+.intro-left p {
+    font-size: 18px;
+    color: #e5e7eb;
 }
 
 .intro-right {
