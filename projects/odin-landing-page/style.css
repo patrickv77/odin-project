@@ -93,6 +93,22 @@ h1 {
 
 .signup {
     background-color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.blue-box {
+    display: flex;
+    background-color: #3882F6;
+    padding: 10px 75px;
+    gap: 75px;
+}
+
+.sign-up-button {
+    justify-content: center;
+    align-self: center;
 }
 
 footer {
