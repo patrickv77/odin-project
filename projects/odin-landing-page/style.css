@@ -1,3 +1,14 @@
+.header {
+    background-color: #1f2937;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #1f2937
+}
+
 ul {
     list-style: none;
     display: flex;
@@ -20,6 +31,10 @@ ul {
 
 .intro-left {
     flex: 1 1 50%;
+}
+
+.picture-and-descriptions {
+    background-color: white;
 }
 
 .section-two-header {
@@ -49,4 +64,13 @@ ul {
     font-weight: lighter;
     font-style: italic;
     padding: 50px 250px;
+}
+
+.signup {
+    background-color: white;
+}
+
+footer {
+    background-color: #1f2937;
+    
 }
