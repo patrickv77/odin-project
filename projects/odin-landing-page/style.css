@@ -58,9 +58,12 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: aqua;
     flex: 1 0 100%;
     flex: 1 1 50%;
+}
+
+.intro-image {
+    width: 100%;
 }
 
 .intro-left {
