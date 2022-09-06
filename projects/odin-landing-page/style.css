@@ -88,10 +88,20 @@ h1 {
 }
 
 .image-with-text {
-    background: purple;
+
     height: 200px;
     width: 200px;
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.four-images {
+    width: 100px;
+    height: 100px;
+    border-radius: 8px;
+    border: 2px solid #3882F6
 }
 
 .testimonials {
