@@ -39,10 +39,6 @@ ul {
     gap: 15px
 }
 
-.placeholder-intro {
-    
-}
-
 h1 {
     font-weight: bolder;
     font-size: 48px;
@@ -63,7 +59,7 @@ h1 {
 }
 
 .intro-image {
-    width: 100%;
+    width: 75%;
 }
 
 .intro-left {
@@ -85,6 +81,8 @@ h1 {
     gap: 15px;
     padding-right: 100px;
     padding-left: 100px;
+    justify-content: center;
+    align-items: center;
 }
 
 .image-with-text {
@@ -125,6 +123,7 @@ h1 {
 }
 
 .blue-box {
+    border-radius: 12px;
     display: flex;
     background-color: #3882F6;
     padding: 10px 75px;
